@@ -6,7 +6,7 @@ You have two options.
 
 ### Send in your own project
 
-If you have an existing pet project or something that you are proud of and using the following technologies, send it to us.
+If you have an existing project or something that you are proud of and using the following technologies, send it to us.
 
 - One of the modern JavaScript frameworks
 - TypeScript
